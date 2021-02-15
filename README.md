@@ -1,7 +1,8 @@
 <a href="https://consider.it/">![Logo](https://cdn.rawgit.com/tkriplean/ConsiderIt/master/public/logo.svg)</a>
 
 [Consider.it][1] is a web-based discussion system that creates civil, organized, and efficient online dialogue by visually summarizing what your community thinks and why. It helps focus discussion even when lots of people participate.
-première chose ! : traduire en français car la traduc FR de goog est mauvaise !
+
+- **première chose !** : traduire en français car la traduc FR de goog est mauvaise !
 
 [1]: <https://consider.it>
 
